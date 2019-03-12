@@ -3,14 +3,13 @@
     <string name="app_name">Quangphamlab6</string>
     <string-array name="Colors">
         <item>Magenta</item>
-        <item>White</item>
-        <item>Green</item>
-        <item>Red</item>
-        <item>Blue</item>
-        <item>Yellow</item>
-        <item>Black</item>
-        <item>Gray</item>
+        <item>Blanco</item>
+        <item>Verde</item>
+        <item>Rojo</item>
+        <item>Azul</item>
+        <item>Amarillo</item>
+        <item>Negro</item>
+        <item>Gris</item>
     </string-array>
-
-
 </resources>
+

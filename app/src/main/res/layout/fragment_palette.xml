@@ -4,28 +4,25 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:visibility="visible"
     tools:context=".PaletteFragment">
 
     <!-- TODO: Update blank fragment layout -->
-    <TextView
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:text="@string/hello_blank_fragment" />
 
     <android.support.constraint.ConstraintLayout
         android:id="@+id/paletteinnerLayout"
         android:layout_width="match_parent"
-        android:layout_height="match_parent">
+        android:layout_height="match_parent"
+        android:visibility="visible">
 
         <Spinner
             android:id="@+id/spinner"
             android:layout_width="395dp"
-            android:layout_height="wrap_content"
+            android:layout_height="278dp"
             android:layout_marginStart="8dp"
             android:layout_marginTop="46dp"
             android:layout_marginEnd="8dp"
-            android:layout_marginBottom="661dp"
-            app:layout_constraintBottom_toBottomOf="parent"
+            android:visibility="visible"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent" />

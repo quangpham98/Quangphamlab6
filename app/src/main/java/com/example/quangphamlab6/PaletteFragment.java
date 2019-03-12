@@ -13,14 +13,7 @@ import android.widget.AdapterView;
 import android.widget.Spinner;
 
 
-/**
- * A simple {@link Fragment} subclass.
- * Activities that contain this fragment must implement the
- * {@link PaletteFragment.OnFragmentInteractionListener} interface
- * to handle interaction events.
- * Use the {@link PaletteFragment#newInstance} factory method to
- * create an instance of this fragment.
- */
+
 public class PaletteFragment extends Fragment {
     public PaletteFragment() {
             // Required empty public constructor
